@@ -1,9 +1,9 @@
 package = "sandbox"
 
-version = "1.0.1-4"
+version = "1.0.1-5"
 
 source = {
-   url = "git+https://github.com/aboudreault/sandbox.lua",
+   url = "git://github.com/aboudreault/sandbox.lua",
 }
 
 description = {
