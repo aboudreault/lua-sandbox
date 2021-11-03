@@ -1,4 +1,3 @@
-rockspec_format = "3.0"
 package = "sandbox"
 
 version = "1.0.1-5"
