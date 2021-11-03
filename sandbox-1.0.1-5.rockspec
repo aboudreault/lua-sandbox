@@ -4,7 +4,7 @@ package = "sandbox"
 version = "1.0.1-5"
 
 source = {
-   url = "git+https://github.com/aboudreault/sandbox.lua",
+   url = "git+https://github.com/aboudreault/sandboxlua",
    tag = "v1.0.1"
 }
 
