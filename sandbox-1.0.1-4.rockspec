@@ -3,7 +3,7 @@ package = "sandbox"
 version = "1.0.1-4"
 
 source = {
-   url = "git+https://github.com/kikito/sandbox.lua",
+   url = "git+https://github.com/aboudreault/sandbox.lua",
 }
 
 description = {
